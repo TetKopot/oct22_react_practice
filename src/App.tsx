@@ -1,9 +1,11 @@
-import React from 'react';
+// import React, { useState } from 'react';
 import './App.scss';
+// import classNames from 'classnames';
 
 // import usersFromServer from './api/users';
 // import productsFromServer from './api/products';
 // import categoriesFromServer from './api/categories';
+// import { Product } from './types/product';
 
 export const App: React.FC = () => {
   return (
